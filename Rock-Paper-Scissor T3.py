@@ -1,6 +1,9 @@
+# Rock-Paper-Scissors Game by Harshit Nashine
+#This code requests users input and the computer selects its input
+#This code supports play again option,also have error handling capabilities
 import random
 
-print ("Welcome to 'Rock-Paper-Scissors' Game by Harshit Nashine")
+print ("Welcome to 'Rock-Paper-Scissors' Game")
 print("\nRules:\nRock vs Paper - Paper Wins \nPaper vs Scissors - Scissors wins\nScissors vs Rock - Rock Wins")
 
 choices = ["Rock", "Paper", "Scissors"]
